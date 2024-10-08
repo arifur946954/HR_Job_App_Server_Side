@@ -1,0 +1,50 @@
+﻿<div *ngIf="backupAsServiceModel.isHasNoBackUp" style="text-align:left;">
+    <p>
+        You do not have existing backup and/or archiving solution in place. Here are some questionnaire for you.
+    </p>
+    <div class="form-group">
+        <label for="bare_metal_servers_backup"><i><b>Q</b></i>.How many bare metal servers you need to backup? (if any)</label>
+        <!--<input type="text" class="form-control" id="bare_metal_servers_backup" name="bare_metal_servers_backup" [(ngModel)]="backupAsServiceModel.bare_metal_servers_backup">-->
+        <div><i><b>A</b></i>.#bare_metal_servers_backup#</div>
+    </div>
+    <div class="form-group">
+        <label for="number_of_vm_backup"><i><b>Q</b></i>.How many VMs you need to backup? (if any)</label>
+        <!--<input type="text" class="form-control" id="number_of_vm_backup" name="number_of_vm_backup" [(ngModel)]="backupAsServiceModel.number_of_vm_backup">-->
+        <div><i><b>A</b></i>.#number_of_vm_backup#</div>
+    </div>
+    <div class="form-group">
+        <label for="applications_services_backup"><i><b>Q</b></i>.Which applications/services you need to backup? Please provide a list.</label>
+        <!--<input type="text" class="form-control" id="applications_services_backup" name="applications_services_backup" [(ngModel)]="backupAsServiceModel.applications_services_backup">-->
+        <div><i><b>A</b></i>.#applications_services_backup#</div>
+    </div>
+    <div class="form-group">
+        <label for="number_Of_running_DB"><i><b>Q</b></i>.Are you running any database servers? Please mention the product names.</label>
+        <!--<input type="text" class="form-control" id="number_Of_running_DB" name="number_Of_running_DB" [(ngModel)]="backupAsServiceModel.number_Of_running_DB">-->
+        <div><i><b>A</b></i>.#number_Of_running_DB#</div>
+    </div>
+    <div class="form-group">
+        <label for="number_Of_server_in_public_and_private_network"><i><b>Q</b></i>.Please mention how many servers are on public network and how many servers are on private network.</label>
+        <!--<input type="text" class="form-control" id="number_Of_server_in_public_and_private_network" name="number_Of_server_in_public_and_private_network" [(ngModel)]="backupAsServiceModel.number_Of_server_in_public_and_private_network">-->
+        <div><i><b>A</b></i>.#number_Of_server_in_public_and_private_network#</div>
+    </div>
+    <div class="form-group">
+        <label for="VPN_or_proxy_to_make_private_servers_access"><i><b>Q</b></i>.Is there any VPN/proxy to make the private servers access the internet?</label>
+        <!--<input type="text" class="form-control" id="VPN_or_proxy_to_make_private_servers_access" name="VPN_or_proxy_to_make_private_servers_access" [(ngModel)]="backupAsServiceModel.VPN_or_proxy_to_make_private_servers_access">-->
+        <div><i><b>A</b></i>.#VPN_or_proxy_to_make_private_servers_access#</div>
+    </div>
+    <div class="form-group">
+        <label for="free_disk_percentage_server_storage"><i><b>Q</b></i>.what is the free disk percentage of your servers’ storages?</label>
+        <!--<input type="text" class="form-control" id="free_disk_percentage_server_storage" name="free_disk_percentage_server_storage" [(ngModel)]="backupAsServiceModel.free_disk_percentage_server_storage">-->
+        <div><i><b>A</b></i>.#free_disk_percentage_server_storage#</div>
+    </div>
+    <div class="form-group">
+        <label for="Disaster_recovery_solution"><i><b>Q</b></i>.Do you have a Disaster recovery solution in place? If yes, please explain what is the solution you are using?</label>
+        <!--<input type="text" class="form-control" id="Disaster_recovery_solution" name="Disaster_recovery_solution" [(ngModel)]="backupAsServiceModel.Disaster_recovery_solution">-->
+        <div><i><b>A</b></i>.#Disaster_recovery_solution#</div>
+    </div>
+    <div class="form-group">
+        <label for="Need_disaster_recovery_solution"><i><b>Q</b></i>.Do you need a disaster recovery solution? If yes, we can discuss with you about it.</label>
+        <!--<input type="text" class="form-control" id="Need_disaster_recovery_solution" name="Need_disaster_recovery_solution" [(ngModel)]="backupAsServiceModel.Need_disaster_recovery_solution">-->
+        <div><i><b>A</b></i>.#Need_disaster_recovery_solution#</div>
+    </div>
+</div>

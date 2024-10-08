@@ -1,0 +1,17 @@
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\bin\Release\net6.0\DataUtility.deps.json
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\bin\Release\net6.0\DataUtility.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\bin\Release\net6.0\DataUtility.pdb
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\bin\Release\net6.0\DataModel.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\bin\Release\net6.0\DataModel.pdb
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\obj\Release\net6.0\DataUtility.csproj.AssemblyReference.cache
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\obj\Release\net6.0\DataUtility.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\obj\Release\net6.0\DataUtility.AssemblyInfoInputs.cache
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\obj\Release\net6.0\DataUtility.AssemblyInfo.cs
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\obj\Release\net6.0\DataUtility.csproj.CoreCompileInputs.cache
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\obj\Release\net6.0\DataUtility.csproj.CopyComplete
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\obj\Release\net6.0\DataUtility.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\obj\Release\net6.0\refint\DataUtility.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\obj\Release\net6.0\DataUtility.pdb
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\obj\Release\net6.0\ref\DataUtility.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\bin\Release\net6.0\DataUtility.runtimeconfig.json
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataUtility\obj\Release\net6.0\DataUtility.genruntimeconfig.cache

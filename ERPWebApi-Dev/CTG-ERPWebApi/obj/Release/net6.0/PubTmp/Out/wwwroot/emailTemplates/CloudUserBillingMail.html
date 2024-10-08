@@ -1,0 +1,69 @@
+﻿<head>
+    <style>
+        .button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 8px 16px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px
+        }
+		table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+    </style>
+</head>
+
+<body style="background-color:#fff;margin:0 auto;padding-left:10%;padding-right:10%;padding-top:3%;color:#000;text-align:left;">
+    <div style="text-align:center">
+        <h2 style="text-decoration:underline;text-align: left;">
+            Invoice Details:
+        </h2>
+        <table style="width:100%;">
+            <thead>
+                <tr>
+                    <th style="text-align:left; ">Particulars</th>
+                    <th style="text-align:left; ">Running(hr)</th>
+                    <th style="text-align:left; ">Stopped(hr)</th>
+                    <th style="text-align:right; ">Cloud Cost</th>
+                </tr>
+            </thead>
+            <tbody>
+                #InvoiceRow#
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td style="text-align:left;border:none !important "></td>
+                    <td style="text-align:left;border:none !important "></td>
+                    <td style="text-align:left; ">Sub-Total:</td>
+                    <td style="text-align:right; ">#SUBTOTAL#</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;border:none !important "></td>
+                    <td style="text-align:left;border:none !important "></td>
+                    <td style="text-align:left; ">Discount:</td>
+                    <td style="text-align:right; ">#DISCOUNT#</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;border:none !important " colspan="2">In words: (#AMOUNTinWORD#)</td>
+                    <td style="text-align:left; ">Vat::</td>
+                    <td style="text-align:right; ">#VAT#</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;border:none !important " colspan="2"></td>
+                    <td style="text-align:left; ">Grand Total:</td>
+                    <td style="text-align:right; ">#GRANDTOTAL#</td>
+                </tr>
+            </tfoot>
+        </table>
+        
+    </div>
+</body>

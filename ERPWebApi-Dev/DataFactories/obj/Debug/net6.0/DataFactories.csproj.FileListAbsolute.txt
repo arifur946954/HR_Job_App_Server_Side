@@ -1,0 +1,104 @@
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\obj\Debug\net6.0\DataFactories.csproj.AssemblyReference.cache
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\obj\Debug\net6.0\DataFactories.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\obj\Debug\net6.0\DataFactories.AssemblyInfoInputs.cache
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\obj\Debug\net6.0\DataFactories.AssemblyInfo.cs
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\obj\Debug\net6.0\DataFactories.csproj.CoreCompileInputs.cache
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\bin\Debug\net6.0\Select.Html.dep
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\bin\Debug\net6.0\DataFactories.deps.json
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\bin\Debug\net6.0\DataFactories.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\bin\Debug\net6.0\DataFactories.pdb
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\bin\Debug\net6.0\DataModels.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\bin\Debug\net6.0\DataUtilities.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\bin\Debug\net6.0\OpenHtmlToPdf.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\bin\Debug\net6.0\DataUtilities.pdb
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\bin\Debug\net6.0\DataModels.pdb
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\obj\Debug\net6.0\DataFactories.csproj.CopyComplete
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\obj\Debug\net6.0\DataFactories.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\obj\Debug\net6.0\refint\DataFactories.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\obj\Debug\net6.0\DataFactories.pdb
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportingService\obj\Debug\net6.0\ref\DataFactories.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.deps.json
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.pdb
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataModel.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataUtility.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataUtility.pdb
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataModel.pdb
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.csproj.AssemblyReference.cache
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.AssemblyInfoInputs.cache
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.AssemblyInfo.cs
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.csproj.CoreCompileInputs.cache
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.csproj.CopyComplete
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\refint\DataFactories.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.pdb
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\ref\DataFactories.dll
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.deps.json
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.dll
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.pdb
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataModel.dll
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataUtility.dll
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataUtility.pdb
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataModel.pdb
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.csproj.AssemblyReference.cache
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.AssemblyInfoInputs.cache
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.AssemblyInfo.cs
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.csproj.CoreCompileInputs.cache
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFact.5BD128A4.Up2Date
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.dll
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\refint\DataFactories.dll
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.pdb
+E:\Project-2\New Project\SpeechBubble\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\ref\DataFactories.dll
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.deps.json
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.dll
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.pdb
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataModel.dll
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataUtility.dll
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataUtility.pdb
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataModel.pdb
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.csproj.AssemblyReference.cache
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.AssemblyInfoInputs.cache
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.AssemblyInfo.cs
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.csproj.CoreCompileInputs.cache
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFact.5BD128A4.Up2Date
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.dll
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\refint\DataFactories.dll
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.pdb
+E:\Project-2\New Project\SpeechBubble\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\ref\DataFactories.dll
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.deps.json
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.dll
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.pdb
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataModel.dll
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataUtility.dll
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataUtility.pdb
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataModel.pdb
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.csproj.AssemblyReference.cache
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.AssemblyInfoInputs.cache
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.AssemblyInfo.cs
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.csproj.CoreCompileInputs.cache
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFact.5BD128A4.Up2Date
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.dll
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\refint\DataFactories.dll
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.pdb
+E:\Project-2\Blank Angular Project\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\ref\DataFactories.dll
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.deps.json
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.dll
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataFactories.pdb
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataModel.dll
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataUtility.dll
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataUtility.pdb
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\bin\Debug\net6.0\DataModel.pdb
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.csproj.AssemblyReference.cache
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.AssemblyInfoInputs.cache
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.AssemblyInfo.cs
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.csproj.CoreCompileInputs.cache
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFact.5BD128A4.Up2Date
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.dll
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\refint\DataFactories.dll
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\DataFactories.pdb
+E:\Project-2\Blank Angular Project\Test BackEnd\BackEnd\BackEnd\ERPWebApi-Dev\DataFactories\obj\Debug\net6.0\ref\DataFactories.dll

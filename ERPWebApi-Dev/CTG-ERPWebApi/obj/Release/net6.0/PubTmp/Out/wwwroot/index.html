@@ -1,0 +1,242 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>CTG-API</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="CTG-API's">
+    <meta content="Royal Green Ltd." name="author" />
+    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <!-- styles -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="assets/css/docs.css" rel="stylesheet">
+    <link href="assets/css/prettyPhoto.css" rel="stylesheet">
+    <link href="assets/js/google-code-prettify/prettify.css" rel="stylesheet">
+    <link href="assets/css/flexslider.css" rel="stylesheet">
+    <link href="assets/css/refineslide.css" rel="stylesheet">
+    <link href="assets/css/font-awesome.css" rel="stylesheet">
+    <link href="assets/css/animate.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/color/default.css" rel="stylesheet">
+    <!-- styles -->
+</head>
+<body>
+    <header>
+        <!-- Navbar
+        ================================================== -->
+        <div class="cbp-af-header">
+            <div class=" cbp-af-inner">
+                <div class="container">
+                    <div class="row">
+                        <div class="span4">
+                            <!-- logo -->
+                            <div class="logo">
+                                <h1><a href="index.html">CTG-API</a></h1>
+                                <!-- <img src="assets/img/logo.png" alt="" /> -->
+                            </div>
+                            <!-- end logo -->
+                        </div>
+                        <div class="span8">
+                            <!-- top menu -->
+                            <!--<div class="navbar">
+                                <div class="navbar-inner">
+                                    <nav>
+                                        <ul class="nav topnav">
+                                            <li class="dropdown active">
+                                                <a href="index.html">Home</a>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a href="#">Features</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="scaffolding.html">Scaffolding</a></li>
+                                                    <li><a href="base-css.html">Base CSS</a></li>
+                                                    <li><a href="components.html">Components</a></li>
+                                                    <li><a href="icons.html">Icons</a></li>
+                                                    <li><a href="list.html">Styled lists</a></li>
+                                                    <li class="dropdown">
+                                                        <a href="#">3rd level</a>
+                                                        <ul class="dropdown-menu sub-menu">
+                                                            <li><a href="#">Example menu</a></li>
+                                                            <li><a href="#">Example menu</a></li>
+                                                            <li><a href="#">Example menu</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a href="#">Pages</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="about.html">About us</a></li>
+                                                    <li><a href="pricingtable.html">Pricing table</a></li>
+                                                    <li><a href="fullwidth.html">Fullwidth</a></li>
+                                                    <li><a href="404.html">404</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a href="#">Portfolio</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="portfolio-2cols.html">Portfolio 2 columns</a></li>
+                                                    <li><a href="portfolio-3cols.html">Portfolio 3 columns</a></li>
+                                                    <li><a href="portfolio-4cols.html">Portfolio 4 columns</a></li>
+                                                    <li><a href="portfolio-detail.html">Portfolio detail</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a href="#">Blog</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="blog_left_sidebar.html">Blog left sidebar</a></li>
+                                                    <li><a href="blog_right_sidebar.html">Blog right sidebar</a></li>
+                                                    <li><a href="post_left_sidebar.html">Post left sidebar</a></li>
+                                                    <li><a href="post_right_sidebar.html">Post right sidebar</a></li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a href="contact.html">Contact</a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>-->
+                            <!-- end menu -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- Subhead
+    ================================================== -->
+    <section id="subintro">
+        <div class="container">
+            <div class="row">
+                <div class="span4">
+                    <h3><strong>API Overviews</strong></h3>
+                </div>
+                <div class="span8">
+                    <ul class="breadcrumb notop">
+                        <li><a href="#">Home</a><span class="divider">/</span></li>
+                        <li class="active">Api</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="maincontent">
+        <div class="container">
+            <div class="row">
+                <div class="span12">
+                    <section id="global">
+                        <p>
+                            This template makes use of certain HTML elements and CSS properties that require the use of the HTML5 doctype. Include it at the beginning of all your projects.
+                        </p>
+                        <h5>API - Request Sample</h5>
+                        <table class="table table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th width="50%">URI</th>
+                                    <th width="10%">HTTP Method</th>
+                                    <th>Description</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>api/usertype/getbypage?param=[{"pageNumber":0,"pageSize":15,"IsPaging":0}]</td>
+                                    <td>GET</td>
+                                    <td class="muted" colspan="2">[{"pageNumber":0,"pageSize":15,"IsPaging":0}]</td>
+                                </tr>
+                                <!--<tr>
+                                    <td>api/usertype/getall</td>
+                                    <td>GET</td>
+                                    <td class="muted" colspan="2"></td>
+                                </tr>-->
+                                <tr>
+                                    <td>api/nas/getbyid?param={"id":1}</td>
+                                    <td>GET</td>
+                                    <td class="muted" colspan="2">{"id":1}</td>
+                                </tr>
+                                <tr>
+                                    <td>api/usertype/saveupdate</td>
+                                    <td>POST</td>
+                                    <td class="muted" colspan="2">
+                                        [{
+                                        "nasname" :"nas1",
+                                        "shortname" :"n1",
+                                        "type" :"t1",
+                                        "ports" :"3303",
+                                        "secret" :"pw",
+                                        "server" :"123.456.789.10",
+                                        "community" :"ctg community",
+                                        "description" :"test"
+                                        }]
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>api/nas/delete?param=[{"id":3}]</td>
+                                    <td>DELETE</td>
+                                    <td class="muted" colspan="2">[{"id":3}]</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h5>Response</h5>
+                        <pre class="prettyprint linenums">
+                        "resarray":[  
+                            {  
+                                "id":1,
+                                "typeId":1,
+                                "typeName":"Customers",
+                                "typeCode":"000001"
+                            },
+                            {  
+                                "id":2,
+                                "typeId":2,
+                                "typeName":"Employee",
+                                "typeCode":"000002"
+                            }
+                        ]
+                        </pre>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Footer
+    ================================================== -->
+    <footer class="footer">
+        <div class="subfooter">
+            <div class="container">
+                <div class="row">
+                    <div class="span6">
+                        <p>
+                            &copy; City Group - All right reserved
+                        </p>
+                    </div>
+                    <div class="span6">
+                        <div class="pull-right">
+                            <div class="credits">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/modernizr.js"></script>
+    <script src="assets/js/jquery.easing.1.3.js"></script>
+    <script src="assets/js/google-code-prettify/prettify.js"></script>
+    <script src="assets/js/bootstrap.js"></script>
+    <script src="assets/js/jquery.prettyPhoto.js"></script>
+    <script src="assets/js/portfolio/jquery.quicksand.js"></script>
+    <script src="assets/js/portfolio/setting.js"></script>
+    <script src="assets/js/hover/jquery-hover-effect.js"></script>
+    <script src="assets/js/jquery.flexslider.js"></script>
+    <script src="assets/js/classie.js"></script>
+    <script src="assets/js/cbpAnimatedHeader.min.js"></script>
+    <script src="assets/js/jquery.refineslide.js"></script>
+    <script src="assets/js/jquery.ui.totop.js"></script>
+    <!-- Template Custom Javascript File -->
+    <script src="assets/js/custom.js"></script>
+</body>
+</html>

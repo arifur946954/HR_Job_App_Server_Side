@@ -1,0 +1,332 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup Label="Globals">
+		<SccProjectName></SccProjectName>
+		<SccProvider></SccProvider>
+		<SccAuxPath></SccAuxPath>
+		<SccLocalPath></SccLocalPath>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<PublishWithAspNetCoreTargetManifest>false</PublishWithAspNetCoreTargetManifest>
+		<MvcRazorCompileOnPublish>false</MvcRazorCompileOnPublish>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<StartupObject>CTG_ERPWebApi.Program</StartupObject>
+		<UserSecretsId>2def9d6c-6dc5-43c0-a933-db3cddc08f1e</UserSecretsId>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<DebugType>full</DebugType>
+		<DebugSymbols>true</DebugSymbols>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Remove="api\common\dashboard\**" />
+		<Compile Remove="api\demo\**" />
+		<Compile Remove="Controllers\**" />
+		<Compile Remove="Properties\PublishProfiles\**" />
+		<Compile Remove="wwwroot\reportfile\crm\**" />
+		<Compile Remove="wwwroot\reportfile\inventory\**" />
+		<Compile Remove="wwwroot\uploads\**" />
+		<Content Remove="api\common\dashboard\**" />
+		<Content Remove="api\demo\**" />
+		<Content Remove="Controllers\**" />
+		<Content Remove="Properties\PublishProfiles\**" />
+		<Content Remove="wwwroot\reportfile\crm\**" />
+		<Content Remove="wwwroot\reportfile\inventory\**" />
+		<Content Remove="wwwroot\uploads\**" />
+		<EmbeddedResource Remove="api\common\dashboard\**" />
+		<EmbeddedResource Remove="api\demo\**" />
+		<EmbeddedResource Remove="Controllers\**" />
+		<EmbeddedResource Remove="Properties\PublishProfiles\**" />
+		<EmbeddedResource Remove="wwwroot\reportfile\crm\**" />
+		<EmbeddedResource Remove="wwwroot\reportfile\inventory\**" />
+		<EmbeddedResource Remove="wwwroot\uploads\**" />
+		<None Remove="api\common\dashboard\**" />
+		<None Remove="api\demo\**" />
+		<None Remove="Controllers\**" />
+		<None Remove="Properties\PublishProfiles\**" />
+		<None Remove="wwwroot\reportfile\crm\**" />
+		<None Remove="wwwroot\reportfile\inventory\**" />
+		<None Remove="wwwroot\uploads\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Remove="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000001.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000002.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000003.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000004.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000005.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000006.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000007.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000008.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000009.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotation\rptQuotation_L_R_CAT000003.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotation\rptQuotation_L_R_CAT000006.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotation\rptQuotation_L_R_CAT000007.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotation\rptQuotation_L_R_CAT000008.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotation\rptQuotation_P_R_CAT000001.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotation\rptQuotation_P_R_CAT000002.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotation\rptQuotation_P_R_CAT000004.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotation\rptQuotation_P_R_CAT000005.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotation\rptQuotation_P_R_CAT000009.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotation\rptQuotation_P_S_CAT000003.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotation\rptQuotation_P_S_CAT000006.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotation\rptQuotation_P_S_CAT000007.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\quotation\rptQuotation_P_S_CAT000008.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000001.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000002.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000003.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000004.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000005.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000006.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000007.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000008.rdlc" />
+		<Content Remove="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000009.rdlc" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Remove="RGL-ERPWebApi.csproj.vspscc" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Include="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000004.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000006.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000007.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000008.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000009.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000001.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000003.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000002.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotations\rptQuotation_P_R_CAT000005.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotation\rptQuotation_L_R_CAT000003.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotation\rptQuotation_L_R_CAT000006.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotation\rptQuotation_L_R_CAT000007.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotation\rptQuotation_L_R_CAT000008.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotation\rptQuotation_P_R_CAT000001.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotation\rptQuotation_P_R_CAT000002.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotation\rptQuotation_P_R_CAT000004.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotation\rptQuotation_P_R_CAT000005.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotation\rptQuotation_P_R_CAT000009.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotation\rptQuotation_P_S_CAT000003.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotation\rptQuotation_P_S_CAT000006.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotation\rptQuotation_P_S_CAT000007.rdlc" />
+		<None Include="wwwroot\reportfile\business\quotation\rptQuotation_P_S_CAT000008.rdlc" />
+		<None Include="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000001.rdlc" />
+		<None Include="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000002.rdlc" />
+		<None Include="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000003.rdlc" />
+		<None Include="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000004.rdlc" />
+		<None Include="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000005.rdlc" />
+		<None Include="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000006.rdlc" />
+		<None Include="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000007.rdlc" />
+		<None Include="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000008.rdlc" />
+		<None Include="wwwroot\reportfile\business\workorder\rptWorkOrder_P_R_CAT000009.rdlc" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+		<PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+		<PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.9" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.9">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.9" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.9">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.8" />
+		<PackageReference Include="NReco.VideoInfo.LT" Version="1.1.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+		<PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="api\common\menus\" />
+		<Folder Include="api\common\modules\" />
+		<Folder Include="wwwroot\assets\img\cloudticket\" />
+		<Folder Include="wwwroot\assets\img\ispticket\" />
+		<Folder Include="wwwroot\assets\bkashsubnotification\" />
+		<Folder Include="wwwroot\assets\temp\" />
+		<Folder Include="wwwroot\files\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Include="wwwroot\assets\font\fontawesome\fontawesome-webfont.svg" />
+		<None Include="wwwroot\assets\js\animate.js" />
+		<None Include="wwwroot\assets\js\bootstrap.js" />
+		<None Include="wwwroot\assets\js\bootstrap.min.js" />
+		<None Include="wwwroot\assets\js\cbpAnimatedHeader.min.js" />
+		<None Include="wwwroot\assets\js\classie.js" />
+		<None Include="wwwroot\assets\js\custom.js" />
+		<None Include="wwwroot\assets\js\google-code-prettify\prettify.js" />
+		<None Include="wwwroot\assets\js\hover\jquery-hover-effect.js" />
+		<None Include="wwwroot\assets\js\jquery.contenthover.js" />
+		<None Include="wwwroot\assets\js\jquery.easing.1.3.js" />
+		<None Include="wwwroot\assets\js\jquery.elastislide.js" />
+		<None Include="wwwroot\assets\js\jquery.flexslider.js" />
+		<None Include="wwwroot\assets\js\jquery.js" />
+		<None Include="wwwroot\assets\js\jquery.prettyPhoto.js" />
+		<None Include="wwwroot\assets\js\jquery.refineslide.js" />
+		<None Include="wwwroot\assets\js\jquery.ui.totop.js" />
+		<None Include="wwwroot\assets\js\modernizr.js" />
+		<None Include="wwwroot\assets\js\portfolio\jquery.quicksand.js" />
+		<None Include="wwwroot\assets\js\portfolio\setting.js" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\DataFactories\DataFactories.csproj" />
+	</ItemGroup>
+
+</Project>
+
+<!--<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+  
+  <PropertyGroup>
+    <PublishWithAspNetCoreTargetManifest>false</PublishWithAspNetCoreTargetManifest>
+  </PropertyGroup>
+  
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>RGL_ERPWebApi.Program</StartupObject>
+    <UserSecretsId>2def9d6c-6dc5-43c0-a933-db3cddc08f1e</UserSecretsId>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>full</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="api\demo\**" />
+    <Compile Remove="Controllers\**" />
+    <Compile Remove="Properties\PublishProfiles\**" />
+    <Compile Remove="wwwroot\uploads\**" />
+    <Content Remove="api\demo\**" />
+    <Content Remove="Controllers\**" />
+    <Content Remove="Properties\PublishProfiles\**" />
+    <Content Remove="wwwroot\uploads\**" />
+    <EmbeddedResource Remove="api\demo\**" />
+    <EmbeddedResource Remove="Controllers\**" />
+    <EmbeddedResource Remove="Properties\PublishProfiles\**" />
+    <EmbeddedResource Remove="wwwroot\uploads\**" />
+    <None Remove="api\demo\**" />
+    <None Remove="Controllers\**" />
+    <None Remove="Properties\PublishProfiles\**" />
+    <None Remove="wwwroot\uploads\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\reportfile\accounting\rptBalanceSheet.rdlc" />
+    <Content Remove="wwwroot\reportfile\accounting\rptChartAccount.rdlc" />
+    <Content Remove="wwwroot\reportfile\accounting\rptGetaccVoucherReport.rdlc" />
+    <Content Remove="wwwroot\reportfile\accounting\rptGetaccVoucherReportPettyCash.rdlc" />
+    <Content Remove="wwwroot\reportfile\accounting\rptIncomeStatement.rdlc" />
+    <Content Remove="wwwroot\reportfile\accounting\rptProfitLoss.rdlc" />
+    <Content Remove="wwwroot\reportfile\accounting\rptReceiptPayment.rdlc" />
+    <Content Remove="wwwroot\reportfile\accounting\rptTrialbalance.rdlc" />
+    <Content Remove="wwwroot\reportfile\billing\rptIspInvoice.rdlc" />
+    <Content Remove="wwwroot\reportfile\business\rptCouponReports.rdlc" />
+    <Content Remove="wwwroot\reportfile\business\rptVMReports.rdlc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="RGL-ERPWebApi.csproj.vspscc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="wwwroot\reportfile\accounting\rptBalanceSheet.rdlc" />
+    <EmbeddedResource Include="wwwroot\reportfile\accounting\rptChartAccount.rdlc" />
+    <EmbeddedResource Include="wwwroot\reportfile\accounting\rptGetaccVoucherReport.rdlc" />
+    <EmbeddedResource Include="wwwroot\reportfile\accounting\rptGetaccVoucherReportPettyCash.rdlc" />
+    <EmbeddedResource Include="wwwroot\reportfile\accounting\rptIncomeStatement.rdlc" />
+    <EmbeddedResource Include="wwwroot\reportfile\accounting\rptProfitLoss.rdlc" />
+    <EmbeddedResource Include="wwwroot\reportfile\accounting\rptReceiptPayment.rdlc" />
+    <EmbeddedResource Include="wwwroot\reportfile\accounting\rptTrialbalance.rdlc" />
+    <EmbeddedResource Include="wwwroot\reportfile\billing\rptIspInvoice.rdlc" />
+    <EmbeddedResource Include="wwwroot\reportfile\business\rptCouponReports.rdlc" />
+    <EmbeddedResource Include="wwwroot\reportfile\business\rptVMReports.rdlc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPPlus" Version="4.5.2.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.0.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.13" />
+    <PackageReference Include="NReco.VideoInfo.LT" Version="1.1.0" />
+    <PackageReference Include="Oracle.EntityFrameworkCore" Version="2.19.120" />
+    <PackageReference Include="Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core" Version="18.4.0.39" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.6.0" />
+    <PackageReference Include="Syncfusion.EJ.AspNet.Core" Version="16.4.0.42" />
+    <PackageReference Include="Syncfusion.EJ.ReportViewer.AspNet.Core" Version="16.4.0.42" />
+    <PackageReference Include="Syncfusion.Licensing" Version="17.1.0.42" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="api\common\menus\" />
+    <Folder Include="api\common\modules\" />
+    <Folder Include="wwwroot\assets\img\cloudticket\" />
+    <Folder Include="wwwroot\assets\img\ispticket\" />
+    <Folder Include="wwwroot\assets\bkashsubnotification\" />
+    <Folder Include="wwwroot\assets\temp\" />
+    <Folder Include="wwwroot\files\" />
+    <Folder Include="wwwroot\reportfile\crm\" />
+    <Folder Include="wwwroot\reportfile\inventory\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\font\fontawesome\fontawesome-webfont.svg" />
+    <None Include="wwwroot\assets\js\animate.js" />
+    <None Include="wwwroot\assets\js\bootstrap.js" />
+    <None Include="wwwroot\assets\js\bootstrap.min.js" />
+    <None Include="wwwroot\assets\js\cbpAnimatedHeader.min.js" />
+    <None Include="wwwroot\assets\js\classie.js" />
+    <None Include="wwwroot\assets\js\custom.js" />
+    <None Include="wwwroot\assets\js\google-code-prettify\prettify.js" />
+    <None Include="wwwroot\assets\js\hover\jquery-hover-effect.js" />
+    <None Include="wwwroot\assets\js\jquery.contenthover.js" />
+    <None Include="wwwroot\assets\js\jquery.easing.1.3.js" />
+    <None Include="wwwroot\assets\js\jquery.elastislide.js" />
+    <None Include="wwwroot\assets\js\jquery.flexslider.js" />
+    <None Include="wwwroot\assets\js\jquery.js" />
+    <None Include="wwwroot\assets\js\jquery.prettyPhoto.js" />
+    <None Include="wwwroot\assets\js\jquery.refineslide.js" />
+    <None Include="wwwroot\assets\js\jquery.ui.totop.js" />
+    <None Include="wwwroot\assets\js\modernizr.js" />
+    <None Include="wwwroot\assets\js\portfolio\jquery.quicksand.js" />
+    <None Include="wwwroot\assets\js\portfolio\setting.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataFactory\DataFactory.csproj" />
+    <ProjectReference Include="..\DataModels\DataModels.csproj" />
+    <ProjectReference Include="..\DataUtilities\DataUtilities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>System</HintPath>
+    </Reference>
+    <Reference Include="System.Data">
+      <HintPath>System.Data</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>System.Xml</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>-->

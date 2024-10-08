@@ -1,0 +1,1347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datafactories\\infrastructure\\common\\users\\jobusermgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|solutionrelative:datafactories\\infrastructure\\common\\users\\jobusermgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\common\\user\\jobuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\common\\user\\jobuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\business\\reqform\\reqformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\business\\reqform\\reqformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datafactories\\infrastructure\\business\\register\\registermgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|solutionrelative:datafactories\\infrastructure\\business\\register\\registermgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\business\\register\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\business\\register\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\common\\user\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\common\\user\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datafactories\\infrastructure\\common\\users\\usermgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|solutionrelative:datafactories\\infrastructure\\common\\users\\usermgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datafactories\\infrastructure\\business\\reqform\\reqformmgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|solutionrelative:datafactories\\infrastructure\\business\\reqform\\reqformmgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B0F8EF-08C9-48C9-A6C7-1642F6A59FEE}|DataModel\\DataModel.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datamodel\\viewmodels\\erpviewmodel\\business\\vmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B0F8EF-08C9-48C9-A6C7-1642F6A59FEE}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\viewmodels\\erpviewmodel\\business\\vmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datautility\\storedprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|solutionrelative:datautility\\storedprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B0F8EF-08C9-48C9-A6C7-1642F6A59FEE}|DataModel\\DataModel.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datamodel\\viewmodels\\erpviewmodel\\common\\cmnmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B0F8EF-08C9-48C9-A6C7-1642F6A59FEE}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\viewmodels\\erpviewmodel\\common\\cmnmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B0F8EF-08C9-48C9-A6C7-1642F6A59FEE}|DataModel\\DataModel.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datamodel\\viewmodels\\erpviewmodel\\common\\cmnmenupermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B0F8EF-08C9-48C9-A6C7-1642F6A59FEE}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\viewmodels\\erpviewmodel\\common\\cmnmenupermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B0F8EF-08C9-48C9-A6C7-1642F6A59FEE}|DataModel\\DataModel.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datamodel\\viewmodels\\erpviewmodel\\common\\cmnmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B0F8EF-08C9-48C9-A6C7-1642F6A59FEE}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\viewmodels\\erpviewmodel\\common\\cmnmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\common\\dropdown\\dropdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\common\\dropdown\\dropdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datautility\\staticinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|solutionrelative:datautility\\staticinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B0F8EF-08C9-48C9-A6C7-1642F6A59FEE}|DataModel\\DataModel.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datamodel\\viewmodels\\erpviewmodel\\business\\vmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B0F8EF-08C9-48C9-A6C7-1642F6A59FEE}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\viewmodels\\erpviewmodel\\business\\vmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datafactories\\infrastructure\\business\\quotation\\quotationsmgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|solutionrelative:datafactories\\infrastructure\\business\\quotation\\quotationsmgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\common\\modules\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\common\\modules\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\wwwroot\\assets\\css\\prettyphoto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\wwwroot\\assets\\css\\prettyphoto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\wwwroot\\assets\\js\\jquery.prettyphoto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\wwwroot\\assets\\js\\jquery.prettyphoto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\wwwroot\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\wwwroot\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\ctg-erpwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\ctg-erpwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\wwwroot\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\wwwroot\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\wwwroot\\assets\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\wwwroot\\assets\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\business\\quotation\\quotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\business\\quotation\\quotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\business\\quotation\\quotationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\business\\quotation\\quotationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\common\\menus\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\common\\menus\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datautility\\reportingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|solutionrelative:datautility\\reportingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datautility\\messageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|solutionrelative:datautility\\messageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datautility\\jobconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|solutionrelative:datautility\\jobconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datautility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|solutionrelative:datautility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datafactories\\basefactory\\igenericfactorymysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|solutionrelative:datafactories\\basefactory\\igenericfactorymysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datafactories\\basefactory\\igenericfactoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|solutionrelative:datafactories\\basefactory\\igenericfactoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datafactories\\basefactory\\igenericfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|solutionrelative:datafactories\\basefactory\\igenericfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\business\\client\\clienttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\business\\client\\clienttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datafactories\\infrastructure\\business\\client\\clientmgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|solutionrelative:datafactories\\infrastructure\\business\\client\\clientmgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\business\\client\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\business\\client\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\business\\client\\clientbankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\business\\client\\clientbankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datafactories\\infrastructure\\common\\roles\\rolemgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|solutionrelative:datafactories\\infrastructure\\common\\roles\\rolemgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\common\\roles\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\common\\roles\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\common\\userroles\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\common\\userroles\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datafactories\\dbservice\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|solutionrelative:datafactories\\dbservice\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\business\\workorder\\workorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\business\\workorder\\workorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\business\\workorder\\workordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\business\\workorder\\workordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\business\\businessconfigure\\businessbrandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\business\\businessconfigure\\businessbrandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datafactories\\infrastructure\\business\\workorder\\workordermgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|solutionrelative:datafactories\\infrastructure\\business\\workorder\\workordermgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\reportsdesigner\\reportfile\\business\\workorder\\rptworkorder_p_r_cat000002.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|solutionrelative:reportsdesigner\\reportfile\\business\\workorder\\rptworkorder_p_r_cat000002.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\reportsdesigner\\reportfile\\business\\workorder\\rptworkorder_p_r_cat000005.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|solutionrelative:reportsdesigner\\reportfile\\business\\workorder\\rptworkorder_p_r_cat000005.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\wwwroot\\reportfile\\business\\quotations\\rptquotation_p_r_cat000002.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\wwwroot\\reportfile\\business\\quotations\\rptquotation_p_r_cat000002.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\wwwroot\\reportfile\\business\\quotation\\rptquotation_p_r_cat000005.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\wwwroot\\reportfile\\business\\quotation\\rptquotation_p_r_cat000005.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\wwwroot\\reportfile\\business\\quotation\\rptquotation_p_r_cat000002.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\wwwroot\\reportfile\\business\\quotation\\rptquotation_p_r_cat000002.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\wwwroot\\reportfile\\business\\quotation\\rptquotation_p_r_cat000004.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\wwwroot\\reportfile\\business\\quotation\\rptquotation_p_r_cat000004.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\wwwroot\\reportfile\\business\\quotation\\rptquotation_l_r_cat000008.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\wwwroot\\reportfile\\business\\quotation\\rptquotation_l_r_cat000008.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\wwwroot\\reportfile\\business\\quotation\\rptquotation_l_r_cat000006.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\wwwroot\\reportfile\\business\\quotation\\rptquotation_l_r_cat000006.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datafactories\\infrastructure\\common\\processflow\\processflowmgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|solutionrelative:datafactories\\infrastructure\\common\\processflow\\processflowmgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\reportsdesigner\\reportfile\\business\\quotation\\rptquotation_p_r_cat000005.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|solutionrelative:reportsdesigner\\reportfile\\business\\quotation\\rptquotation_p_r_cat000005.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\reportsdesigner\\reportfile\\business\\quotation\\rptquotation_p_r_cat000004.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|solutionrelative:reportsdesigner\\reportfile\\business\\quotation\\rptquotation_p_r_cat000004.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\reportsdesigner\\reportfile\\business\\quotation\\rptquotation_p_r_cat000002.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|solutionrelative:reportsdesigner\\reportfile\\business\\quotation\\rptquotation_p_r_cat000002.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\reportsdesigner\\reportfile\\business\\quotation\\rptquotation_p_r_cat000001.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|solutionrelative:reportsdesigner\\reportfile\\business\\quotation\\rptquotation_p_r_cat000001.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\reportsdesigner\\reportfile\\business\\quotation\\rptquotation_l_r_cat000008.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|solutionrelative:reportsdesigner\\reportfile\\business\\quotation\\rptquotation_l_r_cat000008.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\reportsdesigner\\reportfile\\business\\quotation\\rptquotation_l_r_cat000007.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|solutionrelative:reportsdesigner\\reportfile\\business\\quotation\\rptquotation_l_r_cat000007.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\reportsdesigner\\reportfile\\business\\quotation\\rptquotation_l_r_cat000006.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|solutionrelative:reportsdesigner\\reportfile\\business\\quotation\\rptquotation_l_r_cat000006.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\reportsdesigner\\reportfile\\business\\quotation\\rptquotation_l_r_cat000003.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|solutionrelative:reportsdesigner\\reportfile\\business\\quotation\\rptquotation_l_r_cat000003.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\common\\processflow\\processflowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\common\\processflow\\processflowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\reportsdesigner\\speechbubbledataset.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|solutionrelative:reportsdesigner\\speechbubbledataset.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\reportsdesigner\\speechbubbledataset.xss||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|solutionrelative:reportsdesigner\\speechbubbledataset.xss||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\business\\businessconfigure\\businesscategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\business\\businessconfigure\\businesscategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\api\\business\\businessconfigure\\businessmediabroadcastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\api\\business\\businessconfigure\\businessmediabroadcastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\wwwroot\\assets\\css\\bootstrap-responsive.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\wwwroot\\assets\\css\\bootstrap-responsive.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\ctg-erpwebapi\\wwwroot\\assets\\css\\bootstrap-responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0EFE7CE4-93E3-4946-8175-FB563BB907F2}|CTG-ERPWebApi\\CTG-ERPWebApi.csproj|solutionrelative:ctg-erpwebapi\\wwwroot\\assets\\css\\bootstrap-responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\reportsdesigner\\reportfile\\business\\quotation\\rptquotation_p_s_cat000006.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A9ADA9CA-2857-4B36-A029-B47E32D62089}|ReportsDesigner\\ReportsDesigner.csproj|solutionrelative:reportsdesigner\\reportfile\\business\\quotation\\rptquotation_p_s_cat000006.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datafactories\\infrastructure\\business\\customer\\customermgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FAAEAE-54DC-44B4-84AF-47A5D872F872}|DataFactories\\DataFactories.csproj|solutionrelative:datafactories\\infrastructure\\business\\customer\\customermgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datautility\\winservicemgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|solutionrelative:datautility\\winservicemgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datautility\\randomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|solutionrelative:datautility\\randomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datautility\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|solutionrelative:datautility\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|e:\\project-2\\blank angular project\\test backend\\backend\\backend\\erpwebapi-dev\\datautility\\conversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC0E92A-2D32-4B50-A87E-44F0B247C23C}|DataUtility\\DataUtility.csproj|solutionrelative:datautility\\conversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobUserMgt.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\common\\users\\JobUserMgt.cs",
+              "RelativeDocumentMoniker": "DataFactories\\Infrastructure\\common\\users\\JobUserMgt.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\common\\users\\JobUserMgt.cs",
+              "RelativeToolTip": "DataFactories\\Infrastructure\\common\\users\\JobUserMgt.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAswJ4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:37:11.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReqFormController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\reqform\\ReqFormController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\reqform\\ReqFormController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\reqform\\ReqFormController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\reqform\\ReqFormController.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAswJQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:15:02.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobUsersController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\user\\JobUsersController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\common\\user\\JobUsersController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\user\\JobUsersController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\common\\user\\JobUsersController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwCwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:03:03.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DropdownController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\dropdown\\DropdownController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\common\\dropdown\\DropdownController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\dropdown\\DropdownController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\common\\dropdown\\DropdownController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:45:31.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\user\\UsersController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\common\\user\\UsersController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\user\\UsersController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\common\\user\\UsersController.cs",
+              "ViewState": "AQIAADQBAAAAAAAAAAAmwEoBAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:42:50.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CmnModule.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataModel\\ViewModels\\ERPViewModel\\Common\\CmnModule.cs",
+              "RelativeDocumentMoniker": "DataModel\\ViewModels\\ERPViewModel\\Common\\CmnModule.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataModel\\ViewModels\\ERPViewModel\\Common\\CmnModule.cs",
+              "RelativeToolTip": "DataModel\\ViewModels\\ERPViewModel\\Common\\CmnModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:53:59.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "vmClient.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataModel\\ViewModels\\ERPViewModel\\Business\\vmClient.cs",
+              "RelativeDocumentMoniker": "DataModel\\ViewModels\\ERPViewModel\\Business\\vmClient.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataModel\\ViewModels\\ERPViewModel\\Business\\vmClient.cs",
+              "RelativeToolTip": "DataModel\\ViewModels\\ERPViewModel\\Business\\vmClient.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:54:20.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserMgt.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\common\\users\\UserMgt.cs",
+              "RelativeDocumentMoniker": "DataFactories\\Infrastructure\\common\\users\\UserMgt.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\common\\users\\UserMgt.cs",
+              "RelativeToolTip": "DataFactories\\Infrastructure\\common\\users\\UserMgt.cs",
+              "ViewState": "AQIAADADAAAAAAAAAADwv0EDAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:14:06.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\register\\RegisterController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\register\\RegisterController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\register\\RegisterController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\register\\RegisterController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwDMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:56:35.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterMgt.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\business\\register\\RegisterMgt.cs",
+              "RelativeDocumentMoniker": "DataFactories\\Infrastructure\\business\\register\\RegisterMgt.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\business\\register\\RegisterMgt.cs",
+              "RelativeToolTip": "DataFactories\\Infrastructure\\business\\register\\RegisterMgt.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAswEoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T12:02:03.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StaticInfos.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\StaticInfos.cs",
+              "RelativeDocumentMoniker": "DataUtility\\StaticInfos.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\StaticInfos.cs",
+              "RelativeToolTip": "DataUtility\\StaticInfos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T04:45:40.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoredProcedure.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\StoredProcedure.cs",
+              "RelativeDocumentMoniker": "DataUtility\\StoredProcedure.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\StoredProcedure.cs",
+              "RelativeToolTip": "DataUtility\\StoredProcedure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsCAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:11:23.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CmnMenu.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataModel\\ViewModels\\ERPViewModel\\Common\\CmnMenu.cs",
+              "RelativeDocumentMoniker": "DataModel\\ViewModels\\ERPViewModel\\Common\\CmnMenu.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataModel\\ViewModels\\ERPViewModel\\Common\\CmnMenu.cs",
+              "RelativeToolTip": "DataModel\\ViewModels\\ERPViewModel\\Common\\CmnMenu.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:53:54.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CmnMenuPermission.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataModel\\ViewModels\\ERPViewModel\\Common\\CmnMenuPermission.cs",
+              "RelativeDocumentMoniker": "DataModel\\ViewModels\\ERPViewModel\\Common\\CmnMenuPermission.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataModel\\ViewModels\\ERPViewModel\\Common\\CmnMenuPermission.cs",
+              "RelativeToolTip": "DataModel\\ViewModels\\ERPViewModel\\Common\\CmnMenuPermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:53:58.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReqFormMgt.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\business\\reqform\\ReqFormMgt.cs",
+              "RelativeDocumentMoniker": "DataFactories\\Infrastructure\\business\\reqform\\ReqFormMgt.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\business\\reqform\\ReqFormMgt.cs",
+              "RelativeToolTip": "DataFactories\\Infrastructure\\business\\reqform\\ReqFormMgt.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAIAwwGEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:31:55.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "vmProduct.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataModel\\ViewModels\\ERPViewModel\\Business\\vmProduct.cs",
+              "RelativeDocumentMoniker": "DataModel\\ViewModels\\ERPViewModel\\Business\\vmProduct.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataModel\\ViewModels\\ERPViewModel\\Business\\vmProduct.cs",
+              "RelativeToolTip": "DataModel\\ViewModels\\ERPViewModel\\Business\\vmProduct.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwC8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:35:20.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ModuleController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\modules\\ModuleController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\common\\modules\\ModuleController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\modules\\ModuleController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\common\\modules\\ModuleController.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:48:31.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuotationsMgt.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\business\\quotation\\QuotationsMgt.cs",
+              "RelativeDocumentMoniker": "DataFactories\\Infrastructure\\business\\quotation\\QuotationsMgt.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\business\\quotation\\QuotationsMgt.cs",
+              "RelativeToolTip": "DataFactories\\Infrastructure\\business\\quotation\\QuotationsMgt.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAASwFUAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:27:39.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap.css",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap.css",
+              "RelativeToolTip": "CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap.css",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAgwG4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-22T11:43:34.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "RelativeToolTip": "CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBZwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-22T11:46:51.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CTG-ERPWebApi.csproj",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\CTG-ERPWebApi.csproj",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\CTG-ERPWebApi.csproj",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\CTG-ERPWebApi.csproj",
+              "RelativeToolTip": "CTG-ERPWebApi\\CTG-ERPWebApi.csproj",
+              "ViewState": "AQIAABsBAAAAAAAAAAAcwDEBAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-22T11:53:15.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "custom.js",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\assets\\js\\custom.js",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\wwwroot\\assets\\js\\custom.js",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\assets\\js\\custom.js",
+              "RelativeToolTip": "CTG-ERPWebApi\\wwwroot\\assets\\js\\custom.js",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAiwE0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-22T11:53:18.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\wwwroot\\index.html",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\index.html",
+              "RelativeToolTip": "CTG-ERPWebApi\\wwwroot\\index.html",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAcwOUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-22T11:53:24.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "jquery.prettyPhoto.js",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\assets\\js\\jquery.prettyPhoto.js",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\wwwroot\\assets\\js\\jquery.prettyPhoto.js",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\assets\\js\\jquery.prettyPhoto.js",
+              "RelativeToolTip": "CTG-ERPWebApi\\wwwroot\\assets\\js\\jquery.prettyPhoto.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACzUgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-22T11:53:29.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "prettyPhoto.css",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\assets\\css\\prettyPhoto.css",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\wwwroot\\assets\\css\\prettyPhoto.css",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\assets\\css\\prettyPhoto.css",
+              "RelativeToolTip": "CTG-ERPWebApi\\wwwroot\\assets\\css\\prettyPhoto.css",
+              "ViewState": "AQIAAJYAAAAAAAAAAIBZwKkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-22T11:53:42.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "QuotationController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\quotation\\QuotationController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\quotation\\QuotationController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\quotation\\QuotationController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\quotation\\QuotationController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAowGQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:22:28.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\EmailSender.cs",
+              "RelativeDocumentMoniker": "DataUtility\\EmailSender.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\EmailSender.cs",
+              "RelativeToolTip": "DataUtility\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:14:07.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IGenericFactoryMySql.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\BaseFactory\\IGenericFactoryMySql.cs",
+              "RelativeDocumentMoniker": "DataFactories\\BaseFactory\\IGenericFactoryMySql.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\BaseFactory\\IGenericFactoryMySql.cs",
+              "RelativeToolTip": "DataFactories\\BaseFactory\\IGenericFactoryMySql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:13:03.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\menus\\MenuController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\common\\menus\\MenuController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\menus\\MenuController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\common\\menus\\MenuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:39:56.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QuotationsController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\quotation\\QuotationsController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\quotation\\QuotationsController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\quotation\\QuotationsController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\quotation\\QuotationsController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:37:51.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IGenericFactoryEF.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\BaseFactory\\IGenericFactoryEF.cs",
+              "RelativeDocumentMoniker": "DataFactories\\BaseFactory\\IGenericFactoryEF.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\BaseFactory\\IGenericFactoryEF.cs",
+              "RelativeToolTip": "DataFactories\\BaseFactory\\IGenericFactoryEF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:13:02.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JobConfig.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\JobConfig.cs",
+              "RelativeDocumentMoniker": "DataUtility\\JobConfig.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\JobConfig.cs",
+              "RelativeToolTip": "DataUtility\\JobConfig.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:14:15.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReportingService.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\ReportingService.cs",
+              "RelativeDocumentMoniker": "DataUtility\\ReportingService.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\ReportingService.cs",
+              "RelativeToolTip": "DataUtility\\ReportingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:13:23.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IGenericFactory.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\BaseFactory\\IGenericFactory.cs",
+              "RelativeDocumentMoniker": "DataFactories\\BaseFactory\\IGenericFactory.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\BaseFactory\\IGenericFactory.cs",
+              "RelativeToolTip": "DataFactories\\BaseFactory\\IGenericFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:12:58.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MessageConstants.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\MessageConstants.cs",
+              "RelativeDocumentMoniker": "DataUtility\\MessageConstants.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\MessageConstants.cs",
+              "RelativeToolTip": "DataUtility\\MessageConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:14:22.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ClientTypeController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\client\\ClientTypeController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\client\\ClientTypeController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\client\\ClientTypeController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\client\\ClientTypeController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T12:11:19.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ClientBankController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\client\\ClientBankController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\client\\ClientBankController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\client\\ClientBankController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\client\\ClientBankController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAOBvwBcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:47:55.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\client\\ClientController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\client\\ClientController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\client\\ClientController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\client\\ClientController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAMwFIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:47:57.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClientMgt.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\business\\client\\ClientMgt.cs",
+              "RelativeDocumentMoniker": "DataFactories\\Infrastructure\\business\\client\\ClientMgt.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\business\\client\\ClientMgt.cs",
+              "RelativeToolTip": "DataFactories\\Infrastructure\\business\\client\\ClientMgt.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAqwMsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:41:41.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\roles\\RoleController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\common\\roles\\RoleController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\roles\\RoleController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\common\\roles\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:54:37.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RoleMgt.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\common\\roles\\RoleMgt.cs",
+              "RelativeDocumentMoniker": "DataFactories\\Infrastructure\\common\\roles\\RoleMgt.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\common\\roles\\RoleMgt.cs",
+              "RelativeToolTip": "DataFactories\\Infrastructure\\common\\roles\\RoleMgt.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwBwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:25:52.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserRoleController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\userroles\\UserRoleController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\common\\userroles\\UserRoleController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\userroles\\UserRoleController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\common\\userroles\\UserRoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:16:40.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\appsettings.json",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\appsettings.json",
+              "RelativeToolTip": "CTG-ERPWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T09:03:49.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CTG-ERPWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T09:30:40.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\Program.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\Program.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwB0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:03:35.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "web.config",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\web.config",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\web.config",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\web.config",
+              "RelativeToolTip": "CTG-ERPWebApi\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-04T09:01:22.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DBService.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\DBService\\DBService.cs",
+              "RelativeDocumentMoniker": "DataFactories\\DBService\\DBService.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\DBService\\DBService.cs",
+              "RelativeToolTip": "DataFactories\\DBService\\DBService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAMwBcAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:32:13.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\Startup.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\Startup.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\Startup.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:24:33.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "WorkOrdersController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\workorder\\WorkOrdersController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\workorder\\WorkOrdersController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\workorder\\WorkOrdersController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\workorder\\WorkOrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBpwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:57:13.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BusinessBrandController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\businessconfigure\\BusinessBrandController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\businessconfigure\\BusinessBrandController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\businessconfigure\\BusinessBrandController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\businessconfigure\\BusinessBrandController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:48:50.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "WorkOrderMgt.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\business\\workorder\\WorkOrderMgt.cs",
+              "RelativeDocumentMoniker": "DataFactories\\Infrastructure\\business\\workorder\\WorkOrderMgt.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\business\\workorder\\WorkOrderMgt.cs",
+              "RelativeToolTip": "DataFactories\\Infrastructure\\business\\workorder\\WorkOrderMgt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:35:23.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WorkOrderController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\workorder\\WorkOrderController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\workorder\\WorkOrderController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\workorder\\WorkOrderController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\workorder\\WorkOrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:15:42.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "rptQuotation_P_R_CAT000002.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000002.rdlc",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000002.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000002.rdlc [Design]",
+              "RelativeToolTip": "CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000002.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-15T08:56:24.338Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "rptQuotation_P_R_CAT000005.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000005.rdlc",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000005.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000005.rdlc [Design]",
+              "RelativeToolTip": "CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000005.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-15T08:56:40.926Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "rptQuotation_P_R_CAT000002.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotations\\rptQuotation_P_R_CAT000002.rdlc",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotations\\rptQuotation_P_R_CAT000002.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotations\\rptQuotation_P_R_CAT000002.rdlc [Design]",
+              "RelativeToolTip": "CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotations\\rptQuotation_P_R_CAT000002.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-15T08:58:43.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "rptWorkOrder_P_R_CAT000005.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\workorder\\rptWorkOrder_P_R_CAT000005.rdlc",
+              "RelativeDocumentMoniker": "ReportsDesigner\\reportfile\\business\\workorder\\rptWorkOrder_P_R_CAT000005.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\workorder\\rptWorkOrder_P_R_CAT000005.rdlc [Design]",
+              "RelativeToolTip": "ReportsDesigner\\reportfile\\business\\workorder\\rptWorkOrder_P_R_CAT000005.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-15T09:02:02.146Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "rptWorkOrder_P_R_CAT000002.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\workorder\\rptWorkOrder_P_R_CAT000002.rdlc",
+              "RelativeDocumentMoniker": "ReportsDesigner\\reportfile\\business\\workorder\\rptWorkOrder_P_R_CAT000002.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\workorder\\rptWorkOrder_P_R_CAT000002.rdlc [Design]",
+              "RelativeToolTip": "ReportsDesigner\\reportfile\\business\\workorder\\rptWorkOrder_P_R_CAT000002.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-15T09:02:17.231Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "rptQuotation_P_R_CAT000004.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000004.rdlc",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000004.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000004.rdlc [Design]",
+              "RelativeToolTip": "CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000004.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-15T08:56:35.942Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "rptQuotation_L_R_CAT000008.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000008.rdlc",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000008.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000008.rdlc [Design]",
+              "RelativeToolTip": "CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000008.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-15T08:56:22.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "rptQuotation_L_R_CAT000006.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000006.rdlc",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000006.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000006.rdlc [Design]",
+              "RelativeToolTip": "CTG-ERPWebApi\\wwwroot\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000006.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-15T08:56:20.73Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ProcessFlowMgt.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\common\\processflow\\ProcessFlowMgt.cs",
+              "RelativeDocumentMoniker": "DataFactories\\Infrastructure\\common\\processflow\\ProcessFlowMgt.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\common\\processflow\\ProcessFlowMgt.cs",
+              "RelativeToolTip": "DataFactories\\Infrastructure\\common\\processflow\\ProcessFlowMgt.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAADgvxsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:05:03.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "rptQuotation_L_R_CAT000006.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000006.rdlc",
+              "RelativeDocumentMoniker": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000006.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000006.rdlc [Design]",
+              "RelativeToolTip": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000006.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-15T07:55:51.362Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "rptQuotation_P_R_CAT000002.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000002.rdlc",
+              "RelativeDocumentMoniker": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000002.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000002.rdlc [Design]",
+              "RelativeToolTip": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000002.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-15T07:56:10.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "rptQuotation_P_R_CAT000004.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000004.rdlc",
+              "RelativeDocumentMoniker": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000004.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000004.rdlc [Design]",
+              "RelativeToolTip": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000004.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-15T07:56:17.133Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "rptQuotation_P_R_CAT000005.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000005.rdlc",
+              "RelativeDocumentMoniker": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000005.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000005.rdlc [Design]",
+              "RelativeToolTip": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000005.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-15T07:56:24.062Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "rptQuotation_L_R_CAT000003.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000003.rdlc",
+              "RelativeDocumentMoniker": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000003.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000003.rdlc [Design]",
+              "RelativeToolTip": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000003.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-15T07:55:46.704Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "rptQuotation_L_R_CAT000007.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000007.rdlc",
+              "RelativeDocumentMoniker": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000007.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000007.rdlc [Design]",
+              "RelativeToolTip": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000007.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-14T12:51:09.36Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "rptQuotation_L_R_CAT000008.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000008.rdlc",
+              "RelativeDocumentMoniker": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000008.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000008.rdlc [Design]",
+              "RelativeToolTip": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_L_R_CAT000008.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-07T13:14:25.493Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "rptQuotation_P_R_CAT000001.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000001.rdlc",
+              "RelativeDocumentMoniker": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000001.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000001.rdlc [Design]",
+              "RelativeToolTip": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_R_CAT000001.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-13T13:54:50.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ProcessFlowController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\processflow\\ProcessFlowController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\common\\processflow\\ProcessFlowController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\common\\processflow\\ProcessFlowController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\common\\processflow\\ProcessFlowController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:44:05.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "SpeechBubbleDataSet.xsc",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\SpeechBubbleDataSet.xsc",
+              "RelativeDocumentMoniker": "ReportsDesigner\\SpeechBubbleDataSet.xsc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\SpeechBubbleDataSet.xsc",
+              "RelativeToolTip": "ReportsDesigner\\SpeechBubbleDataSet.xsc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-07-13T08:27:24.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "SpeechBubbleDataSet.xss",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\SpeechBubbleDataSet.xss",
+              "RelativeDocumentMoniker": "ReportsDesigner\\SpeechBubbleDataSet.xss",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\SpeechBubbleDataSet.xss",
+              "RelativeToolTip": "ReportsDesigner\\SpeechBubbleDataSet.xss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPpZIxDoIwFIYfbsAiNxBu4KKwMnMBmDyCJxFXndy4AHcgunADdGdAE4EwVV4pWqEgiV/y0uZ/7Z\u002B\u002B1wdjlGW5KYoiroN0IsYcEEIkdrZHfchPkmQbRREEQcDUBtd1wbIsMAxjz6Rvsiybp2lKDocjuWcPYfg7n75mxu4IyfOc7fo8WW6sBOI4DugLHVbrNVMbLuczXG9XCMPw2wAvse0bNBkCDXol4IU2pjDagyn0DPBZ/PoLaoC1i\u002BpH0EhkpqoqXWkT244PgQZ83jRN8DzvM0hoYNs2P6rvGNCbUa6ZoUBdOBRFEc5HVVUa5upYyrJ8Qo32oH1et4yurmnanW44/v5GaaiEaaUBvACMFdHTTBiv\u002BAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-13T08:27:22.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "BusinessMediaBroadcastController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\businessconfigure\\BusinessMediaBroadcastController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\businessconfigure\\BusinessMediaBroadcastController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\businessconfigure\\BusinessMediaBroadcastController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\businessconfigure\\BusinessMediaBroadcastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:47:56.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "BusinessCategoryController.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\businessconfigure\\BusinessCategoryController.cs",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\api\\business\\businessconfigure\\BusinessCategoryController.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\api\\business\\businessconfigure\\BusinessCategoryController.cs",
+              "RelativeToolTip": "CTG-ERPWebApi\\api\\business\\businessconfigure\\BusinessCategoryController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:34:48.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "bootstrap-responsive.css",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap-responsive.css",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap-responsive.css",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap-responsive.css",
+              "RelativeToolTip": "CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap-responsive.css",
+              "ViewState": "AQIAAAkEAAAAAAAAAAAcwCoEAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-10T11:40:32.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "bootstrap-responsive.min.css",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap-responsive.min.css",
+              "RelativeDocumentMoniker": "CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap-responsive.min.css",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap-responsive.min.css",
+              "RelativeToolTip": "CTG-ERPWebApi\\wwwroot\\assets\\css\\bootstrap-responsive.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAABhwAgAAAAIOAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-10T11:40:36.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CustomerMgt.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\business\\customer\\CustomerMgt.cs",
+              "RelativeDocumentMoniker": "DataFactories\\Infrastructure\\business\\customer\\CustomerMgt.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataFactories\\Infrastructure\\business\\customer\\CustomerMgt.cs",
+              "RelativeToolTip": "DataFactories\\Infrastructure\\business\\customer\\CustomerMgt.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:34:52.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "rptQuotation_P_S_CAT000006.rdlc [Design]",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_S_CAT000006.rdlc",
+              "RelativeDocumentMoniker": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_S_CAT000006.rdlc",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_S_CAT000006.rdlc [Design]",
+              "RelativeToolTip": "ReportsDesigner\\reportfile\\business\\quotation\\rptQuotation_P_S_CAT000006.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-04T12:29:37.858Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "WinServiceMgt.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\WinServiceMgt.cs",
+              "RelativeDocumentMoniker": "DataUtility\\WinServiceMgt.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\WinServiceMgt.cs",
+              "RelativeToolTip": "DataUtility\\WinServiceMgt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:15:11.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "RandomGenerator.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\RandomGenerator.cs",
+              "RelativeDocumentMoniker": "DataUtility\\RandomGenerator.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\RandomGenerator.cs",
+              "RelativeToolTip": "DataUtility\\RandomGenerator.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:14:24.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Logs.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\Logs.cs",
+              "RelativeDocumentMoniker": "DataUtility\\Logs.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\Logs.cs",
+              "RelativeToolTip": "DataUtility\\Logs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:14:18.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Conversions.cs",
+              "DocumentMoniker": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\Conversions.cs",
+              "RelativeDocumentMoniker": "DataUtility\\Conversions.cs",
+              "ToolTip": "E:\\Project-2\\Blank Angular Project\\Test BackEnd\\BackEnd\\BackEnd\\ERPWebApi-Dev\\DataUtility\\Conversions.cs",
+              "RelativeToolTip": "DataUtility\\Conversions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:14:02.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

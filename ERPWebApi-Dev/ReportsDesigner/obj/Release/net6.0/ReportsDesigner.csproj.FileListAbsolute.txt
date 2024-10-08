@@ -1,0 +1,12 @@
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportsDesigner\bin\Release\net6.0\ReportsDesigner.deps.json
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportsDesigner\bin\Release\net6.0\ReportsDesigner.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportsDesigner\bin\Release\net6.0\ReportsDesigner.pdb
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportsDesigner\obj\Release\net6.0\ReportsDesigner.csproj.AssemblyReference.cache
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportsDesigner\obj\Release\net6.0\ReportsDesigner.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportsDesigner\obj\Release\net6.0\ReportsDesigner.AssemblyInfoInputs.cache
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportsDesigner\obj\Release\net6.0\ReportsDesigner.AssemblyInfo.cs
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportsDesigner\obj\Release\net6.0\ReportsDesigner.csproj.CoreCompileInputs.cache
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportsDesigner\obj\Release\net6.0\ReportsDesigner.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportsDesigner\obj\Release\net6.0\refint\ReportsDesigner.dll
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportsDesigner\obj\Release\net6.0\ReportsDesigner.pdb
+E:\ProjectsDev\SpeechBubble\SpeechBubble_V3\SpeechBubble_Project\BackEnd22\ERPWebApi-Dev\ReportsDesigner\obj\Release\net6.0\ref\ReportsDesigner.dll

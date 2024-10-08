@@ -1,0 +1,376 @@
+{
+  "format": 1,
+  "restore": {
+    "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\RGL-ERPWebApi\\RGL-ERPWebApi.csproj": {}
+  },
+  "projects": {
+    "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataFactory\\DataFactory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataFactory\\DataFactory.csproj",
+        "projectName": "DataFactory",
+        "projectPath": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataFactory\\DataFactory.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataFactory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataModels\\DataModels.csproj": {
+                "projectPath": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataModels\\DataModels.csproj"
+              },
+              "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataUtilities\\DataUtilities.csproj": {
+                "projectPath": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataUtilities\\DataUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.4, )"
+            },
+            "Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core": {
+              "target": "Package",
+              "version": "[18.4.0.39, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataModels\\DataModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataModels\\DataModels.csproj",
+        "projectName": "DataModels",
+        "projectPath": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataModels\\DataModels.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataUtilities\\DataUtilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataUtilities\\DataUtilities.csproj",
+        "projectName": "DataUtilities",
+        "projectPath": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataUtilities\\DataUtilities.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataUtilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataModels\\DataModels.csproj": {
+                "projectPath": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataModels\\DataModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "FreeSpire.PDF": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Select.HtmlToPdf.NetCore": {
+              "target": "Package",
+              "version": "[20.2.0, )"
+            },
+            "Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core": {
+              "target": "Package",
+              "version": "[18.4.0.30, )"
+            },
+            "System.ServiceProcess.ServiceController": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\RGL-ERPWebApi\\RGL-ERPWebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\RGL-ERPWebApi\\RGL-ERPWebApi.csproj",
+        "projectName": "RGL-ERPWebApi",
+        "projectPath": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\RGL-ERPWebApi\\RGL-ERPWebApi.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\RGL-ERPWebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataFactory\\DataFactory.csproj": {
+                "projectPath": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataFactory\\DataFactory.csproj"
+              },
+              "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataModels\\DataModels.csproj": {
+                "projectPath": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataModels\\DataModels.csproj"
+              },
+              "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataUtilities\\DataUtilities.csproj": {
+                "projectPath": "J:\\tfsOnlineRgl\\rglProjects\\ERP\\BackEnd\\ERPWebApi-Dev\\DataUtilities\\DataUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[4.5.2.1, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "NReco.VideoInfo.LT": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Syncfusion.EJ.AspNet.Core": {
+              "target": "Package",
+              "version": "[16.4.0.42, )"
+            },
+            "Syncfusion.EJ.ReportViewer.AspNet.Core": {
+              "target": "Package",
+              "version": "[16.4.0.42, )"
+            },
+            "Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core": {
+              "target": "Package",
+              "version": "[18.4.0.39, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[17.1.0.42, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
